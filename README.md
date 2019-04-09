@@ -1,2 +1,1 @@
-# Topcoder-Facial-Detection-Marathon
-My dockerized solution of the Topcoder Facial Detection Marathon Match
+# will be posted and documented after the end of the competition
